@@ -106,16 +106,6 @@ Access the live prototype:
 
 ---
 
-#### Troubleshooting Tips 🔧
-
-| Issue                 | Solution                          |
-| --------------------- | --------------------------------- |
-| Content clipping      | Increase bottom hotspot height    |
-| Tab highlight missing | Verify Selection Group assignment |
-| Page not loading      | Check inline frame target links   |
-
----
-
 #### License 📜
 
 MIT License - See [LICENSE](LICENSE) for details.
